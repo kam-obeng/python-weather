@@ -6,7 +6,6 @@ from geopy.geocoders import Nominatim
 import json
 import os
 
-# OpenWeatherMap API Key (Replace with your own API key)
 API_KEY = "d5d299edb4e73976bc6fa4a9c7761f0e"
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 CACHE_FILE = "weather_cache.json"
